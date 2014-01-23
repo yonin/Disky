@@ -15,7 +15,7 @@
             <ttObject>
                 <ttImage>backgrounds/p2_background.jpg</ttImage>
                 <ttIsBackground>YES</ttIsBackground>
-                <ttBasePosition x="50" y="50" />
+                <ttBasePosition x="50" y="880" />
             </ttObject>
             <ttObject>
                 <ttImage>images/page2/p2_ChristmasTreeLights.png</ttImage>
