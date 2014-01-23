@@ -27,6 +27,7 @@
                 <ttImage>images/page2/p2_ChristmasTreeLightsYellow.png</ttImage>
                 <ttImage>images/page2/p2_ChristmasTreeLightsRed1.png</ttImage>
                 <ttImage>images/page2/p2_ChristmasTreeLightsOrange1.png</ttImage>
+                <ttImage>images/page3/p2_ChristmasTreeLightsOrange1.png</ttImage>
                 <ttParallelActionsGroup>0</ttParallelActionsGroup>
                 <ttBasePosition x="1.05863" y="67.8936" />
                 <ttVisible>no</ttVisible>
