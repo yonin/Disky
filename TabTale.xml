@@ -10,7 +10,7 @@
     </ttScene>
     <ttScene>
         <ttName>scene 1</ttName>
-        <ttLayer>
+        <ttLayer><!--blah blah-->
             <ttName>interactiveLayer</ttName>
             <ttObject>
                 <ttImage>backgrounds/p2_background.jpg</ttImage>
